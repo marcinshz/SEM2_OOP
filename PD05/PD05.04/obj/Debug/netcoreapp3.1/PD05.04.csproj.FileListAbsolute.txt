@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\PD05\PD05.04\bin\Debug\netcoreapp3.1\PD05.04.exe
+C:\Users\user\source\repos\PD05\PD05.04\bin\Debug\netcoreapp3.1\PD05.04.deps.json
+C:\Users\user\source\repos\PD05\PD05.04\bin\Debug\netcoreapp3.1\PD05.04.runtimeconfig.json
+C:\Users\user\source\repos\PD05\PD05.04\bin\Debug\netcoreapp3.1\PD05.04.runtimeconfig.dev.json
+C:\Users\user\source\repos\PD05\PD05.04\bin\Debug\netcoreapp3.1\PD05.04.dll
+C:\Users\user\source\repos\PD05\PD05.04\bin\Debug\netcoreapp3.1\PD05.04.pdb
+C:\Users\user\source\repos\PD05\PD05.04\obj\Debug\netcoreapp3.1\PD05.04.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PD05\PD05.04\obj\Debug\netcoreapp3.1\PD05.04.AssemblyInfo.cs
+C:\Users\user\source\repos\PD05\PD05.04\obj\Debug\netcoreapp3.1\PD05.04.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PD05\PD05.04\obj\Debug\netcoreapp3.1\PD05.04.dll
+C:\Users\user\source\repos\PD05\PD05.04\obj\Debug\netcoreapp3.1\PD05.04.pdb
+C:\Users\user\source\repos\PD05\PD05.04\obj\Debug\netcoreapp3.1\PD05.04.genruntimeconfig.cache
+C:\Users\user\source\repos\PD05\PD05.04\obj\Debug\netcoreapp3.1\PD05.04.csprojAssemblyReference.cache
