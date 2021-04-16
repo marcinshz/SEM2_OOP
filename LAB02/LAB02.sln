@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB02.01", "LAB02\LAB02.01.csproj", "{1C32726D-9495-4FC3-920D-1223F30F7073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB02.02", "LAB02.02\LAB02.02.csproj", "{A1D77A3F-9DC2-402B-BC0E-7412A8CFFADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB02.03", "LAB02.03\LAB02.03.csproj", "{F72ED8DA-4916-4B64-9533-505F34674EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C32726D-9495-4FC3-920D-1223F30F7073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C32726D-9495-4FC3-920D-1223F30F7073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C32726D-9495-4FC3-920D-1223F30F7073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C32726D-9495-4FC3-920D-1223F30F7073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D77A3F-9DC2-402B-BC0E-7412A8CFFADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D77A3F-9DC2-402B-BC0E-7412A8CFFADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D77A3F-9DC2-402B-BC0E-7412A8CFFADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D77A3F-9DC2-402B-BC0E-7412A8CFFADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72ED8DA-4916-4B64-9533-505F34674EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72ED8DA-4916-4B64-9533-505F34674EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72ED8DA-4916-4B64-9533-505F34674EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72ED8DA-4916-4B64-9533-505F34674EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6AFF02-DF86-4030-AB06-76F141207B03}
+	EndGlobalSection
+EndGlobal
