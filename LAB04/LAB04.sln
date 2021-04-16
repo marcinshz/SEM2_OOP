@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB04.01", "LAB04.01\LAB04.01.csproj", "{8027EC91-F5D8-4E5A-88DA-B6A5368E5220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB04.02", "LAB04.02\LAB04.02.csproj", "{EE7377E8-0BB7-494D-B371-C929AABCEB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB04.03", "LAB04.03\LAB04.03.csproj", "{46F21663-4C2C-4633-BC53-F9551743F764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8027EC91-F5D8-4E5A-88DA-B6A5368E5220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8027EC91-F5D8-4E5A-88DA-B6A5368E5220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8027EC91-F5D8-4E5A-88DA-B6A5368E5220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8027EC91-F5D8-4E5A-88DA-B6A5368E5220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7377E8-0BB7-494D-B371-C929AABCEB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7377E8-0BB7-494D-B371-C929AABCEB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7377E8-0BB7-494D-B371-C929AABCEB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7377E8-0BB7-494D-B371-C929AABCEB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F21663-4C2C-4633-BC53-F9551743F764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F21663-4C2C-4633-BC53-F9551743F764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F21663-4C2C-4633-BC53-F9551743F764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F21663-4C2C-4633-BC53-F9551743F764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80922146-2792-405C-8833-ACBABB7A493F}
+	EndGlobalSection
+EndGlobal
