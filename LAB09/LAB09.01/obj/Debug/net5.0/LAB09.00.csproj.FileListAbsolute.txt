@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LAB09\LAB09.01\bin\Debug\net5.0\LAB09.00.exe
+C:\Users\user\source\repos\LAB09\LAB09.01\bin\Debug\net5.0\LAB09.00.deps.json
+C:\Users\user\source\repos\LAB09\LAB09.01\bin\Debug\net5.0\LAB09.00.runtimeconfig.json
+C:\Users\user\source\repos\LAB09\LAB09.01\bin\Debug\net5.0\LAB09.00.runtimeconfig.dev.json
+C:\Users\user\source\repos\LAB09\LAB09.01\bin\Debug\net5.0\LAB09.00.dll
+C:\Users\user\source\repos\LAB09\LAB09.01\bin\Debug\net5.0\ref\LAB09.00.dll
+C:\Users\user\source\repos\LAB09\LAB09.01\bin\Debug\net5.0\LAB09.00.pdb
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.AssemblyInfo.cs
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.dll
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\ref\LAB09.00.dll
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.pdb
+C:\Users\user\source\repos\LAB09\LAB09.01\obj\Debug\net5.0\LAB09.00.genruntimeconfig.cache
