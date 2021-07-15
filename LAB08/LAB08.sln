@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB08.01", "LAB08.01\LAB08.01.csproj", "{BCEB617F-E1D5-486D-BA04-547949F922FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB08.03", "LAB08.02\LAB08.03.csproj", "{0430235F-24BE-4BE5-9589-D417D61FE1C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB08.04", "LAB08.04\LAB08.04.csproj", "{D5D0EB6B-FE9F-4CB6-A3FF-79C89D5E26F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEB617F-E1D5-486D-BA04-547949F922FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEB617F-E1D5-486D-BA04-547949F922FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEB617F-E1D5-486D-BA04-547949F922FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEB617F-E1D5-486D-BA04-547949F922FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0430235F-24BE-4BE5-9589-D417D61FE1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0430235F-24BE-4BE5-9589-D417D61FE1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0430235F-24BE-4BE5-9589-D417D61FE1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0430235F-24BE-4BE5-9589-D417D61FE1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D0EB6B-FE9F-4CB6-A3FF-79C89D5E26F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D0EB6B-FE9F-4CB6-A3FF-79C89D5E26F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D0EB6B-FE9F-4CB6-A3FF-79C89D5E26F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D0EB6B-FE9F-4CB6-A3FF-79C89D5E26F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6CAF01F-0643-4BCB-94B3-1F4735B1046D}
+	EndGlobalSection
+EndGlobal

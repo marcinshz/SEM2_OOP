@@ -1,0 +1,5 @@
+C:\Users\CEM\source\repos\LAB08\LAB08.01.Figury\obj\Debug\net5.0\LAB08.01.Figury.csproj.AssemblyReference.cache
+C:\Users\CEM\source\repos\LAB08\LAB08.01.Figury\obj\Debug\net5.0\LAB08.01.Figury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEM\source\repos\LAB08\LAB08.01.Figury\obj\Debug\net5.0\LAB08.01.Figury.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\LAB08\LAB08.01.Figury\obj\Debug\net5.0\LAB08.01.Figury.AssemblyInfo.cs
+C:\Users\CEM\source\repos\LAB08\LAB08.01.Figury\obj\Debug\net5.0\LAB08.01.Figury.csproj.CoreCompileInputs.cache
