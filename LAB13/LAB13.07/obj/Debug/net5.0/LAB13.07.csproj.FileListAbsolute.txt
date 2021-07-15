@@ -1,0 +1,16 @@
+C:\Users\CEM\source\repos\LAB13\LAB13.07\bin\Debug\net5.0\LAB13.07.exe
+C:\Users\CEM\source\repos\LAB13\LAB13.07\bin\Debug\net5.0\LAB13.07.deps.json
+C:\Users\CEM\source\repos\LAB13\LAB13.07\bin\Debug\net5.0\LAB13.07.runtimeconfig.json
+C:\Users\CEM\source\repos\LAB13\LAB13.07\bin\Debug\net5.0\LAB13.07.runtimeconfig.dev.json
+C:\Users\CEM\source\repos\LAB13\LAB13.07\bin\Debug\net5.0\LAB13.07.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.07\bin\Debug\net5.0\ref\LAB13.07.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.07\bin\Debug\net5.0\LAB13.07.pdb
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.AssemblyInfo.cs
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\ref\LAB13.07.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.pdb
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.genruntimeconfig.cache
+C:\Users\CEM\source\repos\LAB13\LAB13.07\obj\Debug\net5.0\LAB13.07.csproj.AssemblyReference.cache

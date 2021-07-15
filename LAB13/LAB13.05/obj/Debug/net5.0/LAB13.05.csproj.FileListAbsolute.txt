@@ -1,0 +1,15 @@
+C:\Users\CEM\source\repos\LAB13\LAB13.05\bin\Debug\net5.0\LAB13.05.exe
+C:\Users\CEM\source\repos\LAB13\LAB13.05\bin\Debug\net5.0\LAB13.05.deps.json
+C:\Users\CEM\source\repos\LAB13\LAB13.05\bin\Debug\net5.0\LAB13.05.runtimeconfig.json
+C:\Users\CEM\source\repos\LAB13\LAB13.05\bin\Debug\net5.0\LAB13.05.runtimeconfig.dev.json
+C:\Users\CEM\source\repos\LAB13\LAB13.05\bin\Debug\net5.0\LAB13.05.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.05\bin\Debug\net5.0\ref\LAB13.05.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.05\bin\Debug\net5.0\LAB13.05.pdb
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\LAB13.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\LAB13.05.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\LAB13.05.AssemblyInfo.cs
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\LAB13.05.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\LAB13.05.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\ref\LAB13.05.dll
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\LAB13.05.pdb
+C:\Users\CEM\source\repos\LAB13\LAB13.05\obj\Debug\net5.0\LAB13.05.genruntimeconfig.cache
