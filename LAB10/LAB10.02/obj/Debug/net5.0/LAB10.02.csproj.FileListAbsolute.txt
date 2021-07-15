@@ -1,0 +1,16 @@
+C:\Users\CEM\source\repos\LAB10\LAB10.02\bin\Debug\net5.0\LAB10.02.exe
+C:\Users\CEM\source\repos\LAB10\LAB10.02\bin\Debug\net5.0\LAB10.02.deps.json
+C:\Users\CEM\source\repos\LAB10\LAB10.02\bin\Debug\net5.0\LAB10.02.runtimeconfig.json
+C:\Users\CEM\source\repos\LAB10\LAB10.02\bin\Debug\net5.0\LAB10.02.runtimeconfig.dev.json
+C:\Users\CEM\source\repos\LAB10\LAB10.02\bin\Debug\net5.0\LAB10.02.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.02\bin\Debug\net5.0\ref\LAB10.02.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.02\bin\Debug\net5.0\LAB10.02.pdb
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.csproj.AssemblyReference.cache
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.AssemblyInfo.cs
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\ref\LAB10.02.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.pdb
+C:\Users\CEM\source\repos\LAB10\LAB10.02\obj\Debug\net5.0\LAB10.02.genruntimeconfig.cache

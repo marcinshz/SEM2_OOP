@@ -1,0 +1,16 @@
+C:\Users\CEM\source\repos\LAB10\LAB10.04\bin\Debug\net5.0\LAB10.04.exe
+C:\Users\CEM\source\repos\LAB10\LAB10.04\bin\Debug\net5.0\LAB10.04.deps.json
+C:\Users\CEM\source\repos\LAB10\LAB10.04\bin\Debug\net5.0\LAB10.04.runtimeconfig.json
+C:\Users\CEM\source\repos\LAB10\LAB10.04\bin\Debug\net5.0\LAB10.04.runtimeconfig.dev.json
+C:\Users\CEM\source\repos\LAB10\LAB10.04\bin\Debug\net5.0\LAB10.04.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.04\bin\Debug\net5.0\ref\LAB10.04.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.04\bin\Debug\net5.0\LAB10.04.pdb
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.AssemblyInfoInputs.cache
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.AssemblyInfo.cs
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.csproj.CoreCompileInputs.cache
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\ref\LAB10.04.dll
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.pdb
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.genruntimeconfig.cache
+C:\Users\CEM\source\repos\LAB10\LAB10.04\obj\Debug\net5.0\LAB10.04.csproj.AssemblyReference.cache
